@@ -15,8 +15,8 @@ AlexaとChatGPTを連携させることで、音声でChatGPTに質問したり�
 - AWSアカウント
 
 ## セットアップ手順
-1. Alexa Developer Consoleで新しいスキルを作成
-2. ほぼこれを参考にセットアップ（https://note.com/eito_hijikata/n/nd81a26f26faa）
-3. OpenAIのAPIキーを取得し、`lambda/config/keys.js`に設定
-4. 環境変数を設定（`lambda/config/appConfig.js`を参照）
-5. AWS CLIを使用してAWS Lambdaにデプロイ
+1. ほぼこれを参考にセットアップ（ https://note.com/eito_hijikata/n/nd81a26f26faa ）
+ - javaScriptで作成することに注意
+2. OpenAIのAPIキーを取得し、`lambda/config/keys.js`に設定
+3. 環境変数を設定（`lambda/config/appConfig.js`を参照）
+4. AWS CLIを使用してAWS Lambdaにデプロイ
