@@ -1,0 +1,6 @@
+ask-resources.json
+.ask
+.vscode
+lambda/node_modules
+lambda/config/keys.js
+.env

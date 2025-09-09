@@ -1,0 +1,1 @@
+module.exports.OPEN_AI_KEY = 'YOUR_OPENAI_API_KEY_HERE';
